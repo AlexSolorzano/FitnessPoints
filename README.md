@@ -18,3 +18,20 @@ Important files to consider:
 7. sb-admin-2.css - the readible css page
 
 The rest of the html pages, don't really matter but I kept them because they have some really cool elements that I like to grab and use in other pages. Literally just copying and pasting them to use. 
+
+
+TASKS:
+
+1. Login to account
+    - Start off on create account page
+    - Click on "already have an account"
+    - Type in credentials 
+    - Reach Dashboard
+    
+2. Add a meal
+    -Scroll down to dinner
+    - Type meal and calories "Chicken Fajitas - 500 calories"
+    - press add 
+3. Look at rewardsa and redeem
+4. Add a Friend
+5. Challenge Friend 
