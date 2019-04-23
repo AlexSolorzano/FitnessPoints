@@ -5,7 +5,7 @@ Important files to consider:
 
 1.index.html - dashboard aka home page 
   - you can view all your general stats while also being able to add your calorie intake and exercise intake
-  
+
 2. rewards.html - rewards page
   - you can view your rewards, so maybe hardcode a coupe of images of different stuff like leggins, and shoes etc and maybe add like a feature where you can either have buttons with different types of exercise or something like that and when the user clicks it, options pertaining to that show up. 
   
@@ -15,5 +15,6 @@ Important files to consider:
 4. login.html - login page, automatically takes you to the dashboard
 5. register.html - creates an account 
 6. 404.html - error page, we can add this to any of the buttons we don't want them to press or something
+7. sb-admin-2.css - the readible css page
 
-The rest of the html pages, don't really matter but I kept them because they have some really cool elements that I like to grab and work with and use in other pages. Literally just copying and pasting them to use. 
+The rest of the html pages, don't really matter but I kept them because they have some really cool elements that I like to grab and use in other pages. Literally just copying and pasting them to use. 
