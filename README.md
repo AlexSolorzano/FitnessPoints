@@ -17,7 +17,8 @@ Important files to consider:
 6. 404.html - error page, we can add this to any of the buttons we don't want them to press or something
 7. sb-admin-2.css - the readible css page
 
-The rest of the html pages, don't really matter but I kept them because they have some really cool elements that I like to grab and use in other pages. Literally just copying and pasting them to use. 
+The rest of the html pages, don't really matter but I kept them because they have some really cool elements that I like to grab and use in other pages.
+    - Literally just copying and pasting them to use. 
 
 
 TASKS:
@@ -29,9 +30,19 @@ TASKS:
     - Reach Dashboard
     
 2. Add a meal
-    -Scroll down to dinner
+    - Scroll down to dinner
     - Type meal and calories "Chicken Fajitas - 500 calories"
     - press add 
 3. Look at rewardsa and redeem
+
 4. Add a Friend
-5. Challenge Friend 
+    - Go to the top corner and select the person icon
+    - Scroll down and select 'Social' 
+    - Scroll down and type in 'Kelly Kapour' in search and press button
+    - Select add friend
+5. Challenge Friend
+    - Scroll over the green crown button on kelly kapours profile
+    - Select the chllenge button button
+    - Select the drop down and pick 'miles' and for the amount 5
+    - Go to the menu and navigate to the dashboard
+    - Scroll down and type in '2.5' in the amount of miles ran and submit
