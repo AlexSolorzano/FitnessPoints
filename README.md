@@ -33,13 +33,19 @@ TASKS:
     - Scroll down to dinner
     - Type meal and calories "Chicken Fajitas - 500 calories"
     - press add 
-3. Look at rewardsa and redeem
+    
+3. Look at rewards and redeem
+    - Scroll to the dumbells & click "Redeem"
+    - View new reward in "Rewards Previously Earned"
+    - Notice 10,000 lesser points from original in "Current Points" (i.e. 150,000 -> 140,000)
+    - Notice increase in "Rewards Earned" (i.e. 3 - 4)
 
 4. Add a Friend
     - Go to the top corner and select the person icon
     - Scroll down and select 'Social' 
     - Scroll down and type in 'Kelly Kapour' in search and press button
     - Select add friend
+    
 5. Challenge Friend
     - Scroll over the green crown button on kelly kapours profile
     - Select the chllenge button button
